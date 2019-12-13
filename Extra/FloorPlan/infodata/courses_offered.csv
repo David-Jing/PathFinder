@@ -1,0 +1,230 @@
+"LastName","FirstName","PreferredFirstName","stakeholder_id","courses_offered_id","Section","Location","Unit","Type","Subject","CourseNumber","Term","TermDisplay","Area","StartTime","EndTime","Room","Day","OfficeLocation","officeID","Notes"
+"Macdonald","Elizabeth Anne","E. Anne","23177","4970","D200","SUR","3","Internal","BUS","251","1184","Summer 2018","ACCT","12:00 PM","02:00 PM","WMC 3359","Mo","BBY","4877",
+"Macdonald","Elizabeth Anne","E. Anne","23177","4970","D200","SUR","3","Internal","BUS","251","1184","Summer 2018","ACCT","02:00 PM","04:00 PM","WMC 3359","We","BBY","4878",
+"Macdonald","Elizabeth Anne","E. Anne","23177","4970","D200","SUR","3","Internal","BUS","251","1184","Summer 2018","ACCT","01:00 PM","03:00 PM","SUR5047","Th","SUR","4879",
+"Macdonald","Elizabeth Anne","E. Anne","23177","4970","D200","SUR","3","Internal","BUS","251","1184","Summer 2018","ACCT","00:00 AM","00:00 AM","WMC 3359",,"BBY","4880",
+"Macdonald","Elizabeth Anne","E. Anne","23177","4971","D100","BBY","3","Internal","BUS","251","1184","Summer 2018","ACCT","12:00 PM","02:00 PM","WMC 3359","Mo","BBY","4881",
+"Macdonald","Elizabeth Anne","E. Anne","23177","4971","D100","BBY","3","Internal","BUS","251","1184","Summer 2018","ACCT","02:00 PM","04:00 PM","WMC 3359","We","BBY","4882",
+"Macdonald","Elizabeth Anne","E. Anne","23177","4971","D100","BBY","3","Internal","BUS","251","1184","Summer 2018","ACCT","01:00 PM","03:00 PM","SUR5047","Th","SUR","4883",
+"Macdonald","Elizabeth Anne","E. Anne","23177","4971","D100","BBY","3","Internal","BUS","251","1184","Summer 2018","ACCT","00:00 AM","00:00 AM","WMC 3359",,"BBY","4884",
+"Fung","Kwai Man Teresa","Teresa","48701","5042","D100","BBY","3","Internal","BUS","254","1184","Summer 2018","ACCT","10:30 AM","12:00 PM","WMC 3353","Tu","BBY","4756",
+"Mahmoudian","Fereshteh","Fereshteh","42521","5062","D100","BBY","3","Internal","BUS","320","1184","Summer 2018","ACCT","03:00 PM","04:00 PM","WMC 3373","Tu","BBY","4622",
+"Mahmoudian","Fereshteh","Fereshteh","42521","5062","D100","BBY","3","Internal","BUS","320","1184","Summer 2018","ACCT","10:00 AM","12:00 PM","WMC 3373","We","BBY","4623",
+"Mahmoudian","Fereshteh","Fereshteh","42521","5062","D100","BBY","3","Internal","BUS","320","1184","Summer 2018","ACCT","10:00 AM","12:00 PM","WMC 3373","Th","BBY","4624",
+"Trottier","Kim","Kim","23190","5115","D100","BBY","3","Internal","BUS","321","1184","Summer 2018","ACCT","02:00 PM","02:30 PM","WMC 3355","Mo","BBY","4748",
+"Trottier","Kim","Kim","23190","5115","D100","BBY","3","Internal","BUS","321","1184","Summer 2018","ACCT","05:30 PM","06:00 PM","WMC 3355","Mo","BBY","4749",
+"Garabedian","Arsineh","Arsineh","23234","5157","D100","BBY","3","Internal","BUS","420","1184","Summer 2018","ACCT","01:00 PM","02:20 PM","WMC 4366","We","BBY","4699","and by appointment after 8:20pm"
+"Garabedian","Arsineh","Arsineh","23234","5172","E100","BBY","3","Internal","BUS","420","1184","Summer 2018","ACCT","01:00 PM","02:20 PM","WMC 4366","We","BBY","4701","and by appointment after 8:20pm"
+"Trottier","Kim","Kim","23190","5197","D100","BBY","3","Internal","BUS","421","1184","Summer 2018","ACCT","03:00 PM","04:00 PM","WMC 3355","Tu","BBY","4746",
+"Trottier","Kim","Kim","23190","5203","E100","BBY","3","Internal","BUS","421","1184","Summer 2018","ACCT","03:00 PM","04:00 PM","WMC 3355","Tu","BBY","4747",
+"Tan","Hwee Cheng","Hwee","43406","5250","D100","BBY","3","Internal","BUS","424","1184","Summer 2018","ACCT","10:00 AM","12:00 PM","WMC 3379","Th","BBY","4752",
+"Tan","Hwee Cheng","Hwee","43406","5273","E100","BBY","3","Internal","BUS","424","1184","Summer 2018","ACCT","10:00 AM","12:00 PM","WMC 3379","Th","BBY","4754",
+"Favere-Marchesi","Michael","Michael","23161","5298","D100","BBY","3","Internal","BUS","426","1184","Summer 2018","ACCT","01:00 PM","02:30 PM","WMC 3365","Mo","BBY","4577","or by appointment"
+"Zitron","Ron","Ron","23258","5351","D200","SUR","4","Internal","BUS","312","1184","Summer 2018","FIN","08:30 AM","09:30 AM","SUR2600","Mo","SUR","4621","Also after class as necessary"
+"Zitron","Ron","Ron","23258","5387","D100","BBY","4","Internal","BUS","312","1184","Summer 2018","FIN","08:30 AM","09:30 AM","SWH10081","We","BBY","4620","Also after class as necessary"
+"Willeboordse","Frederick","Frederick","47293","5472","E100","BBY","3","Internal","BUS","316","1184","Summer 2018","FIN","02:20 PM","03:20 PM","WMC3210","Th","BBY","4789","After Class"
+"Willeboordse","Frederick","Frederick","47293","5472","E100","BBY","3","Internal","BUS","316","1184","Summer 2018","FIN","07:20 PM","08:20 PM","WMC2220","Th","BBY","4790","After Class"
+"Willeboordse","Frederick","Frederick","47293","5493","D100","BBY","3","Internal","BUS","316","1184","Summer 2018","FIN","02:20 PM","03:20 PM","WMC3210","Th","BBY","4779","After Class"
+"Willeboordse","Frederick","Frederick","47293","5493","D100","BBY","3","Internal","BUS","316","1184","Summer 2018","FIN","07:20 PM","08:20 PM","WMC2220","Th","BBY","4782","After Class"
+"Lenouvel","Patrick","Patrick","26415","5544","D100","BBY","3","Internal","BUS","410","1184","Summer 2018","FIN",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Lenouvel","Patrick","Patrick","26415","5568","E100","BBY","3","Internal","BUS","410","1184","Summer 2018","FIN",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Gessaroli","Jerome","Jerome","62380","5628","D100","BBY","4","Internal","BUS","413","1184","Summer 2018","FIN","01:30 PM","02:30 PM","WMC 4373","We","BBY","4653",
+"Gessaroli","Jerome","Jerome","62380","5628","D100","BBY","4","Internal","BUS","413","1184","Summer 2018","FIN","00:00 AM","00:00 AM","NULL",,"BBY","4654",
+"Gessaroli","Jerome","Jerome","62380","5628","D100","BBY","4","Internal","BUS","413","1184","Summer 2018","FIN","00:00 AM","00:00 AM","NULL",,"BBY","4655",
+"da Costa","Carlos","Carlos","25746","5644","D100","BBY","4","Internal","BUS","417","1184","Summer 2018","FIN","12:30 PM","02:30 PM","WMC 4369","Tu","BBY","4596",
+"Gatev","Evan","Evan","22711","5701","D100","BBY","3","Internal","BUS","418","1184","Summer 2018","FIN","12:30 PM","02:00 PM","WMC 3313","Mo","BBY","4738",
+"Gatev","Evan","Evan","22711","5701","D100","BBY","3","Internal","BUS","418","1184","Summer 2018","FIN","00:00 AM","00:00 AM","WMC 3313",,"BBY","4739",
+"Willeboordse","Frederick","Frederick","47293","5755","D100","BBY","3","Internal","BUS","419","1184","Summer 2018","FIN","12:20 PM","01:20 PM","WMC3510","Fr","BBY","4787","After Class"
+"Thiara","Ajit","Sam","4689","5801","E100","BBY","3","Internal","BUS","272","1184","Summer 2018","MOS","02:30 PM","00:00 AM","BURNABY","We","BBY","4599","WMC 3233 from 3:00-4:00pm"
+"Scott","William","Bill","907","5823","D100","BBY","3","Internal","BUS","272","1184","Summer 2018","MOS","11:00 AM","12:10 PM","WMC 4371","Mo","BBY","4687","Other times by appointment."
+"Wang","Tao","Tao","38375","5877","D200","BBY","3","Internal","BUS","374","1184","Summer 2018","MOS","01:00 PM","02:00 PM","WMC 4371","Th","BBY","4618",
+"Wang","Tao","Tao","38375","5877","D200","BBY","3","Internal","BUS","374","1184","Summer 2018","MOS","00:00 AM","00:00 AM","NULL",,"BBY","4619",
+"Charlton","Peter","Peter","18795","5942","D100","BBY","3","Internal","BUS","481","1184","Summer 2018","MOS","04:30 PM","05:30 PM","WMC 4365","We","BBY","4608","By appointment "
+"Utley","James","Jim","25647","5964","D100","BBY","3","Internal","BUS","482","1184","Summer 2018","MOS","12:30 PM","02:30 PM","NULL","We","BBY","4733",
+"Kiamanesh","Mitra","Mitra","30701","6008","D100","BBY","3","Internal","BUS","485","1184","Summer 2018","MOS","02:30 PM","03:30 PM","WMC 3311","Tu","BBY","4892",
+"Kiamanesh","Mitra","Mitra","30701","6008","D100","BBY","3","Internal","BUS","485","1184","Summer 2018","MOS","00:00 AM","00:00 AM","NULL",,"BBY","4893",
+"Velin","Ron","Ron","23237","6027","D100","BBY","3","Internal","BUS","486","1184","Summer 2018","MOS","02:30 PM","03:15 PM","NULL","Th","BBY","4768",
+"Weston","Robert","Robert","39331","6056","E100","BBY","3","Internal","BUS","381","1184","Summer 2018","MOS","04:00 PM","05:15 PM","WMC 4355","Mo","BBY","4609","Other times by appointment"
+"Krishnan","Rekha","Rekha","23175","6268","D100","BBY","3","Internal","BUS","346","1184","Summer 2018","IB","12:30 PM","01:30 PM","WMC 4311","Mo","BBY","4751",
+"Ipek","Ebru","Ebru","29038","6304","D100","BBY","3","Internal","BUS","430","1184","Summer 2018","IB","12:30 PM","01:15 PM","WMC 4360 ","Mo","BBY","4720",
+"Krishnan","Rekha","Rekha","23175","6353","D100","BBY","3","Internal","BUS","434","1184","Summer 2018","IB","01:30 PM","02:30 PM","WMC 4311","Mo","BBY","4750",
+"Goh","Jie Mein","JM","30973","6394","E100","BBY","3","Internal","BUS","237","1184","Summer 2018","MIS","03:00 PM","04:00 PM","WMC 3315","Th","BBY","4638",
+"Goh","Jie Mein","JM","30973","6431","D100","BBY","3","Internal","BUS","237","1184","Summer 2018","MIS","03:00 PM","04:00 PM","WMC 3315","Th","BBY","4637",
+"Huenefeld","Michael","Michael","2768","6453","D100","BBY","3","Internal","BUS","361","1184","Summer 2018","MIS","01:30 PM","02:30 PM","WMC 4369","We","BBY","4652","Or by appointment"
+"Wong","Richard","Richard","61780","6509","D100","BBY","4","Internal","BUS","362","1184","Summer 2018","MIS","01:30 PM","02:30 PM","WMC 4365","Mo","BBY","4692",
+"Wong","Richard","Richard","61780","6509","D100","BBY","4","Internal","BUS","362","1184","Summer 2018","MIS","01:30 PM","02:30 PM","WMC 4365","Tu","BBY","4693",
+"Brydon","Michael","Michael","23157","6531","D100","BBY","3","Internal","BUS","462","1184","Summer 2018","MIS","10:00 AM","11:00 AM","WMC 3325","Tu","BBY","4633",
+"Brydon","Michael","Michael","23157","6531","D100","BBY","3","Internal","BUS","462","1184","Summer 2018","MIS","00:00 AM","00:00 AM","WMC 3325",,"BBY","4634",
+"Papania","Daniel","Daniel","21577","6552","D100","BBY","3","Internal","BUS","464","1184","Summer 2018","MIS","01:45 PM","03:00 PM","WMC4369","Mo","BBY","4907","By appointment (please email me dpapania@sfu.ca) "
+"Papania","Daniel","Daniel","21577","6552","D100","BBY","3","Internal","BUS","464","1184","Summer 2018","MIS","01:15 PM","02:15 PM","WMC4368","Tu","BBY","4908","By appointment (please email me dpapania@sfu.ca) "
+"Wong","Richard","Richard","61780","6581","D100","BBY","3","Internal","BUS","468","1184","Summer 2018","MIS","01:30 PM","02:30 PM","WMC 4365","Mo","BBY","4688",
+"Wong","Richard","Richard","61780","6581","D100","BBY","3","Internal","BUS","468","1184","Summer 2018","MIS","01:30 PM","02:30 PM","WMC 4365","Tu","BBY","4689",
+"Flostrand","Andrew","Andrew","227","6651","E100","BBY","4","Internal","BUEC","232","1184","Summer 2018","TOM","07:30 PM","08:30 PM","WMC4359","Tu","BBY","4639","Some weeks office hours will be held in lecture theatre."
+"Yamamoto","Cleusa","Cleusa","43268","6675","D100","BBY","4","Internal","BUS","336","1184","Summer 2018","TOM","12:30 PM","01:30 PM","WMC4361","Mo","BBY","4631",
+"Yamamoto","Cleusa","Cleusa","43268","6675","D100","BBY","4","Internal","BUS","336","1184","Summer 2018","TOM","00:00 AM","00:00 AM","NULL",,"BBY","4632",
+"Azaron","Amir","Amir","44267","6691","D200","SUR","4","Internal","BUS","336","1184","Summer 2018","TOM","05:00 PM","06:30 PM","WMC 4357","Tu","BBY","4598",
+"Gupta","Sudheer","Sudheer","22167","6778","D100","BBY","3","Internal","BUS","474","1184","Summer 2018","TOM","12:45 PM","02:15 PM","WMC 4344","Mo","BBY","4770",
+"Matadeen","Seeparsad","Allan","23252","6871","D100","BBY","3","Internal","BUS","207","1184","Summer 2018","POL","04:00 PM","05:00 PM","NULL","Tu","BBY","4758",
+"Matadeen","Seeparsad","Allan","23252","6871","D100","BBY","3","Internal","BUS","207","1184","Summer 2018","POL","11:30 AM","01:30 PM","NULL","Fr","BBY","4759",
+"Matadeen","Seeparsad","Allan","23252","6914","E100","BBY","3","Internal","BUS","207","1184","Summer 2018","POL",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Hooley","Daniel ","Dan","51042","6945","E100","BBY","3","Internal","BUS","303","1184","Summer 2018","POL","10:00 AM","11:00 AM","WMC 4365","Th","BBY","4636",
+"Bhalloo","Shafik","Shafik","23250","6966","D100","BBY","3","Internal","BUS","303","1184","Summer 2018","POL","05:30 PM","07:00 PM","WMC 4391","Mo","BBY","4585",
+"Bhalloo","Shafik","Shafik","23250","6966","D100","BBY","3","Internal","BUS","303","1184","Summer 2018","POL","08:00 AM","10:00 AM","WMC 4391","Fr","BBY","4586",
+"Lucas","Michaela","Michaela","48684","6978","D200","SUR","3","Internal","BUS","303","1184","Summer 2018","POL","12:30 PM","01:20 PM","SUR 5049","We","SUR","4737",
+"Adamson","Robert","Robert","23154","7034","E100","BBY","3","Internal","BUS","393","1184","Summer 2018","POL","02:30 PM","03:30 PM","WMC 4329","Mo","BBY","4702",
+"Bhalloo","Shafik","Shafik","23250","7055","D100","BBY","3","Internal","BUS","393","1184","Summer 2018","POL","05:30 PM","07:00 PM","WMC 4391","Mo","BBY","4592",
+"Bhalloo","Shafik","Shafik","23250","7055","D100","BBY","3","Internal","BUS","393","1184","Summer 2018","POL","08:00 AM","10:00 AM","WMC 4391","Fr","BBY","4593",
+"Adamson","Robert","Robert","23154","7103","D200","SUR","3","Internal","BUS","393","1184","Summer 2018","POL","02:30 PM","03:30 PM","WMC 4329","Mo","BBY","4704",
+"Bukszar","Edward","Ed","23158","7220","D100","BBY","3","Internal","BUS","478","1184","Summer 2018","POL","12:30 PM","01:00 PM","WMC 4385","Mo","BBY","4862",
+"Bukszar","Edward","Ed","23158","7220","D100","BBY","3","Internal","BUS","478","1184","Summer 2018","POL","02:00 PM","02:30 PM","WMC 4385","Mo","BBY","4863",
+"Bukszar","Edward","Ed","23158","7221","D200","BBY","3","Internal","BUS","478","1184","Summer 2018","POL","12:30 PM","01:00 PM","WMC 4385","Mo","BBY","4864",
+"Bukszar","Edward","Ed","23158","7221","D200","BBY","3","Internal","BUS","478","1184","Summer 2018","POL","02:00 PM","02:30 PM","WMC 4385","Mo","BBY","4865",
+"Chan","Anthony","Anthony","2271","7222","D300","BBY","3","Internal","BUS","478","1184","Summer 2018","POL","12:30 PM","01:30 PM","WMC 4303","We","BBY","4718",
+"Chan","Anthony","Anthony","2271","7223","D400","BBY","3","Internal","BUS","478","1184","Summer 2018","POL","12:30 PM","01:30 PM","WMC 4303","We","BBY","4714",
+"Basto Da Silva","Rui Jorge","Rui","11781","7224","D500","SUR","3","Internal","BUS","478","1184","Summer 2018","POL","01:25 PM","02:25 PM","SUR5043","Fr","SUR","4641",
+"Chan","Anthony","Anthony","2271","7225","E100","BBY","3","Internal","BUS","478","1184","Summer 2018","POL","12:30 PM","01:30 PM","WMC 4303","We","BBY","4719",
+"Basto Da Silva","Rui Jorge","Rui","11781","7226","E200","BBY","3","Internal","BUS","478","1184","Summer 2018","POL","03:25 PM","04:25 PM","WMC4363","We","BBY","4640",
+"Barlow","Leanne","Leanne","2428","7423","D100","BBY","4","Internal","BUS","360","1184","Summer 2018","BC","09:30 AM","10:30 AM","WMC 3331","Tu","BBY","4681",
+"Barlow","Leanne","Leanne","2428","7423","D100","BBY","4","Internal","BUS","360","1184","Summer 2018","BC","09:30 AM","10:30 AM","WMC 3331","Th","BBY","4682",
+"Barlow","Leanne","Leanne","2428","7423","D100","BBY","4","Internal","BUS","360","1184","Summer 2018","BC","01:00 PM","02:00 PM","WMC 3331","We","BBY","4683",
+"Tung","Eric","Eric","25648","7424","D200","BBY","4","Internal","BUS","360","1184","Summer 2018","BC","01:00 PM","02:20 PM","WMC 4357","We","BBY","4696",
+"Tung","Eric","Eric","25648","7424","D200","BBY","4","Internal","BUS","360","1184","Summer 2018","BC","08:30 PM","09:00 PM","WMC 4357","We","BBY","4697",
+"Elliott","Robin","Robin","25494","7425","D300","BBY","4","Internal","BUS","360","1184","Summer 2018","BC",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Elliott","Robin","Robin","25494","7428","E100","BBY","4","Internal","BUS","360","1184","Summer 2018","BC",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Venhuizen","Christian","Christian","8388","7429","D600","SUR","4","Internal","BUS","360","1184","Summer 2018","BC","12:40 PM","02:10 PM","SUR 5052","We","SUR","4708",
+"Lin","Pei Shiuan","Lily","49523","7631","D200","SUR","3","Internal","BUS","343","1184","Summer 2018","MKTG","12:30 PM","02:30 PM","SUR 5049","Th","SUR","4643",
+"Lin","Pei Shiuan","Lily","49523","7638","D100","BBY","3","Internal","BUS","343","1184","Summer 2018","MKTG","12:30 PM","02:30 PM","WMC 4370","Fr","BBY","4642",
+"Zaichkowsky","Judith","Judy","23197","7675","D100","BBY","3","Internal","BUS","347","1184","Summer 2018","MKTG","01:00 PM","02:00 PM","SGL 3765","Th","SEGAL","4657",
+"Zaichkowsky","Judith","Judy","23197","7675","D100","BBY","3","Internal","BUS","347","1184","Summer 2018","MKTG","01:00 PM","02:00 PM",,"Tu","BBY","4658",
+"Zaichkowsky","Judith","Judy","23197","7675","D100","BBY","3","Internal","BUS","347","1184","Summer 2018","MKTG","00:00 AM","00:00 AM","SGL 3765",,"SEGAL","4659",
+"Papania","Daniel","Daniel","21577","7721","D100","BBY","4","Internal","BUS","345","1184","Summer 2018","MKTG","01:45 PM","03:00 PM","WMC4369","Mo","BBY","4911","By appointment (please email me dpapania@sfu.ca) "
+"Papania","Daniel","Daniel","21577","7721","D100","BBY","4","Internal","BUS","345","1184","Summer 2018","MKTG","01:15 PM","02:15 PM","WMC4368","Tu","BBY","4912","By appointment (please email me dpapania@sfu.ca) "
+"Mahmoudian","Fereshteh","Fereshteh","42521","9271","E100","BBY","3","Internal","BUS","320","1184","Summer 2018","ACCT","03:00 PM","04:00 PM","WMC 3373","Tu","BBY","4628",
+"Mahmoudian","Fereshteh","Fereshteh","42521","9271","E100","BBY","3","Internal","BUS","320","1184","Summer 2018","ACCT","10:00 AM","12:00 PM","WMC 3373","We","BBY","4629",
+"Mahmoudian","Fereshteh","Fereshteh","42521","9271","E100","BBY","3","Internal","BUS","320","1184","Summer 2018","ACCT","10:00 AM","12:00 PM","WMC 3373","Th","BBY","4630",
+"Bubra","Susan","Susan","23225","9279","D200","BBY","3","Internal","BUS","322","1184","Summer 2018","ACCT",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Fung","Kwai Man Teresa","Teresa","48701","9282","E100","BBY","3","Internal","BUS","254","1184","Summer 2018","ACCT","10:30 AM","12:00 PM","WMC 3353","Tu","BBY","4757",
+"Favere-Marchesi","Michael","Michael","23161","9290","E100","BBY","3","Internal","BUS","426","1184","Summer 2018","ACCT","01:00 PM","02:30 PM","WMC 3365","Mo","BBY","4587","or by appointment"
+"Krishnamoorthy","Srinivas","Srini","49522","9460","D100","BBY","3","Internal","BUS","437","1184","Summer 2018","TOM","01:30 PM","02:30 PM","WMC 4305","We","BBY","4726",
+"Aboukinane","Chehrazade","Chehra","43895","9461","D100","BBY","4","Internal","BUS","473","1184","Summer 2018","TOM","01:30 PM","03:00 PM","NULL","Fr","BBY","4707",
+"Bertels","Stephanie","Stephanie","21615","9527","G100",,"4","Internal","BUS","660","1184","Summer 2018","GAD",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Werker","Eric","Eric","42832","9607","G100","SEGAL","3","Internal","BUS","718","1184","Summer 2018","POL",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Werker","Eric","Eric","42832","9608","G100","SEGAL","2","Internal","BUS","729","1184","Summer 2018","POL",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"McCarthy","Ian","Ian","21933","9609","G100","SEGAL","3","Internal","BUS","715","1184","Summer 2018","TOM",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Harries","Andrew","Andrew","1835","9614","G100","SEGAL","3","Internal","BUS","714","1184","Summer 2018","IE",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Pitt","Leyland","Leyland","21935","9616","G100","SEGAL","2","Internal","BUS","638","1184","Summer 2018","MKTG",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Bertels","Stephanie","Stephanie","21615","9622","G100","SEGAL","3","Internal","BUS","716","1184","Summer 2018","POL",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Niu","Jijun","Jijun","22181","9631","G100","SEGAL","3","Internal","BUS","805","1184","Summer 2018","FIN",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Klein","Peter","Peter","23173","9635","G100","SEGAL","3","Internal","BUS","816","1184","Summer 2018","FIN",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"da Costa","Carlos","Carlos","25746","9639","G100","SEGAL","3","Internal","BUS","864","1184","Summer 2018","FIN",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Krishnamoorthy","Srinivas","Srini","49522","9748","G100","SUR","4","Internal","BUS","738","1184","Summer 2018","TOM",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Seah","Albert","Albert","24955","9771","D100","BBY","3","Internal","BUS","217","1184","Summer 2018","UAD","02:30 PM","04:00 PM","NULL","Th","BBY","4735","WMC4366"
+"Wilkinson","Michael","Mike","50782","9773","D200","BBY","3","Internal","BUS","217","1184","Summer 2018","UAD","03:30 PM","04:30 PM","WMC 4334","Tu","BBY","4656",
+"Barlow","Leanne","Leanne","2428","9776","D300","BBY","3","Internal","BUS","217","1184","Summer 2018","UAD","09:30 AM","10:30 AM","WMC 3331","Tu","BBY","4684",
+"Barlow","Leanne","Leanne","2428","9776","D300","BBY","3","Internal","BUS","217","1184","Summer 2018","UAD","09:30 AM","10:30 AM","WMC 3331","Th","BBY","4685",
+"Barlow","Leanne","Leanne","2428","9776","D300","BBY","3","Internal","BUS","217","1184","Summer 2018","UAD","01:00 PM","02:00 PM","WMC 3331","We","BBY","4686",
+"Fard","Amin","Amin","50793","9811","E100","BBY","3","Internal","BUS","462","1184","Summer 2018","MIS","04:00 PM","04:30 PM","WMC 4355","Tu","BBY","4760",
+"Fard","Amin","Amin","50793","9811","E100","BBY","3","Internal","BUS","462","1184","Summer 2018","MIS","07:30 PM","08:00 PM","WMC 4355","Tu","BBY","4761",
+"Klein","Peter","Peter","23173","9820","G100","SEGAL","3","Internal","BUS","870","1184","Summer 2018","FIN",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Adamson","Robert","Robert","23154","9834","D300","BBY","3","Internal","BUS","393","1184","Summer 2018","POL","02:30 PM","03:30 PM","WMC 4329","Mo","BBY","4703",
+"Colbourne","Rick","Rick","25","9845","G100","SEGAL","2","Internal","BUS","794","1184","Summer 2018","IE",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Volker","Mike","Mike","24838","9846","G100","SEGAL","2","Internal","BUS","795","1184","Summer 2018","IE",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Maine","Elicia","Elicia","22171","9847","G100","SEGAL","2","Internal","BUS","797","1184","Summer 2018","IE",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Elliott","Robin","Robin","25494","9888","D400","SUR","3","Internal","BUS","217","1184","Summer 2018","UAD",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Edwards","Barbara","Barb","23247","9890","G100","WEB","4","Internal","BUS","510","1184","Summer 2018","ACCT",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Brown","Tom","Tom","872","9893","G100","WEB","2","Internal","BUS","511","1184","Summer 2018","MOS",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"ten Brummelhuis","Lieke","Lieke","26897","9902","G100","WEB","4","Internal","BUS","557","1184","Summer 2018","MOS",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Reich","Blaize Horner","Blaize Horner","22633","9904","G100","WEB","4","Internal","BUS","570","1184","Summer 2018","MIS",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Tba","Tba","Tba","100","9915","G100","SEGAL","6","Internal","BUS","780","1184","Summer 2018","POL",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Instructor Required","No","No","26859","9915","G100","SEGAL","6","Internal","BUS","780","1184","Summer 2018","POL",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Werker","Eric","Eric","42832","9916","G100","SEGAL","2","Internal","BUS","782","1184","Summer 2018","POL",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Harries","Andrew","Andrew","1835","9917","G100","SEGAL","2","Internal","BUS","783","1184","Summer 2018","IE",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Jones","Nathan","Nathan","28991","9918","G100","OFFSITE","2","Internal","BUS","784","1184","Summer 2018","POL",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"McCarthy","Ian","Ian","21933","9919","G100","SEGAL","4","Internal","BUS","758","1184","Summer 2018","TOM",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Harries","Andrew","Andrew","1835","9920","G100","SEGAL","2","Internal","BUS","773","1184","Summer 2018","POL",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Thomas","David","Dave","23189","9921","G100","SEGAL","2","Internal","BUS","755","1184","Summer 2018","IB",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Papania","Lisa","Lisa","3663","9931","G100","SUR","4","Internal","BUS","735","1184","Summer 2018","MOS",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Bhalloo","Shafik","Shafik","23250","9940","D100","BBY","3","Internal","BUS","233","1184","Summer 2018","MIN","05:30 PM","07:00 PM","WMC 4391","Mo","BBY","4594",
+"Bhalloo","Shafik","Shafik","23250","9940","D100","BBY","3","Internal","BUS","233","1184","Summer 2018","MIN","08:00 AM","10:00 AM","WMC 4391","Fr","BBY","4595",
+"Rawcliffe","Wayne","Wayne","44418","9941","D100","BBY","3","Internal","BUS","200","1184","Summer 2018","MIN","08:00 AM","09:15 AM","WMC 4357","Fr","BBY","4736","or by appointment"
+"Gibson","Steve","Steve","23233","9942","D100","BBY","4","Internal","BUS","311","1184","Summer 2018","MIN","01:30 PM","03:30 PM","WMC 4373","Th","BBY","4709",
+"Gibson","Steve","Steve","23233","9942","D100","BBY","4","Internal","BUS","311","1184","Summer 2018","MIN","00:00 AM","00:00 AM","NULL",,"BBY","4710",
+"MacDougall","Michael","Michael","23228","9943","D100","BBY","4","Internal","BUS","340","1184","Summer 2018","MIN","11:00 AM","01:00 PM","WMC4360","We","BBY","4765",
+"MacDougall","Michael","Michael","23228","9943","D100","BBY","4","Internal","BUS","340","1184","Summer 2018","MIN","11:00 AM","01:00 PM","WMC4360","Fr","BBY","4766",
+"Treen","Emily","Emily","16704","9944","D100","BBY","4","Internal","BUS","341","1184","Summer 2018","MIN","12:00 PM","01:30 PM","NULL","Tu","BBY","4644",
+"MacDougall","Michael","Michael","23228","9945","D100","BBY","4","Internal","BUS","401","1184","Summer 2018","MIN","11:00 AM","01:00 PM","WMC4360","Fr","BBY","4767",
+"Edwards","Timothy","Tim","40699","9959","G100","SEGAL","3","Internal","BUS","825","1184","Summer 2018","ACCT",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Assadi","Bahareh","Bahareh","61254","9965","D100","BBY","3","Internal","BUS","381","1184","Summer 2018","MOS","08:30 AM","09:30 AM","WMC 4361","Fr","BBY","4734",
+"Sunderji","Alia","Alia","15067","9967","D100","SUR","3","Internal","BUS","238","1184","Summer 2018","IE","01:00 PM","02:30 PM","NULL","We","SUR","4728",
+"Sunderji","Alia","Alia","15067","9967","D100","SUR","3","Internal","BUS","238","1184","Summer 2018","IE","00:00 AM","00:00 AM","NULL",,"BBY","4729",
+"Ford","Simon","Simon","48741","9968","D100","SUR","3","Internal","BUS","338","1184","Summer 2018","IE","11:00 AM","12:00 PM","5028","We","SUR","4645",
+"Ford","Simon","Simon","48741","9968","D100","SUR","3","Internal","BUS","338","1184","Summer 2018","IE","11:00 AM","12:00 PM","5028","Th","SUR","4646",
+"Lubik","Sarah","Sarah","13063","9969","D100","SUR","1","Internal","BUS","405","1184","Summer 2018","IE","09:30 AM","10:30 AM","SUR 5022","Mo","SUR","4705","Or by appointment"
+"Payne","Peter","Peter","18804","9970","D100","SUR","3","Internal","BUS","406","1184","Summer 2018","IE",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Oh","Chang Hoon","Chang Hoon","24798","9972","D100","BBY","3","Internal","BUS","435","1184","Summer 2018","IB","12:30 PM","02:00 PM","WMC2202","We","BBY","4725",
+"Church","Michael","Mike","24035","9974","D100","BBY","3","Internal","BUS","466","1184","Summer 2018","MIS","11:30 AM","12:20 PM","WMC 3327","Th","BBY","4791",
+"Church","Michael","Mike","24035","9974","D100","BBY","3","Internal","BUS","466","1184","Summer 2018","MIS","12:30 PM","01:20 PM","WMC 3327","Fr","BBY","4792",
+"Papania","Daniel","Daniel","21577","9975","D200","BBY","3","Internal","BUS","464","1184","Summer 2018","MIS","01:45 PM","03:00 PM","WMC4369","Mo","BBY","4909","By appointment (please email me dpapania@sfu.ca) "
+"Papania","Daniel","Daniel","21577","9975","D200","BBY","3","Internal","BUS","464","1184","Summer 2018","MIS","01:15 PM","02:15 PM","WMC4368","Tu","BBY","4910","By appointment (please email me dpapania@sfu.ca) "
+"Gutiw","Dianne","Diane","62806","9976","D200","BBY","3","Internal","BUS","468","1184","Summer 2018","MIS","12:00 PM","02:00 PM","WMC 4359","Fr","BBY","4600",
+"Mandarino","Miranda","Miranda","3587","9980","D100","BBY","3","Internal","BUS","475","1184","Summer 2018","TOM","02:20 PM","03:20 PM","WMC 4363","Th","BBY","4698","By appointment only"
+"Brosseau","Jim","Jim","46994","9983","D100","BBY","3","Internal","BUS","202","1184","Summer 2018","UAD","01:00 PM","02:00 PM","NULL","Fr","BBY","4651","WMC 4334"
+"Martell","Matthew","Matt","14645","9984","D200","BBY","3","Internal","BUS","202","1184","Summer 2018","UAD","01:00 PM","02:00 PM","WMC 4334","We","BBY","4570","Or by Appt"
+"Lazarova","Mila","Mila","18861","9994","G100","OFFSITE","2","Internal","BUS","725","1184","Summer 2018","IB",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Lazarova","Mila","Mila","18861","9995","G200","SEGAL","2","Internal","BUS","725","1184","Summer 2018","IB",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Hansom","Derek","Derek","34817","9996","G300","OFFSITE","2","Internal","BUS","725","1184","Summer 2018","IB",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Keighron","Dave","Dave","47505","10000","D100","BBY","4","Internal","BUS","446","1184","Summer 2018","MKTG","05:35 PM","06:35 PM","WMC 4368","We","BBY","4904","Please send me an email request prior to date you would like to meet"
+"Immell","Tara","Tara","23223","10028","D200","BBY","3","Internal","BUS","221","1184","Summer 2018","UAD","12:30 PM","01:30 PM","WMC 4373","Mo","BBY","4732",
+"Immell","Tara","Tara","23223","10032","D100","BBY","3","Internal","BUS","221","1184","Summer 2018","UAD","12:30 PM","01:30 PM","WMC 4373","Mo","BBY","4730",
+"Papania","Daniel","Daniel","21577","10036","D100","BBY","3","Internal","BUS","445","1184","Summer 2018","MKTG","01:45 PM","03:00 PM","WMC4369","Mo","BBY","4905","By appointment (please email me dpapania@sfu.ca) "
+"Papania","Daniel","Daniel","21577","10036","D100","BBY","3","Internal","BUS","445","1184","Summer 2018","MKTG","01:15 PM","02:15 PM","WMC4368","Tu","BBY","4906","By appointment (please email me dpapania@sfu.ca) "
+"Hooley","Daniel ","Dan","51042","10039","D300","BBY","3","Internal","BUS","303","1184","Summer 2018","POL","09:00 AM","10:00 AM","WMC 4365","Th","BBY","4635",
+"Shapiro","Daniel","Daniel","18788","10055","G200","SEGAL","4","Internal","BUS","607","1184","Summer 2018","POL",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Tingling","Peter","Peter","18850","10066","G100","SEGAL","2","Internal","BUS","640","1184","Summer 2018","ACCT",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Gemino","Andrew","Andrew","1924","10067","G100","SEGAL","4","Internal","BUS","621","1184","Summer 2018","MIS",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Gatev","Evan","Evan","22711","10076","E100","BBY","3","Internal","BUS","418","1184","Summer 2018","FIN","12:30 PM","02:00 PM","WMC 3313","Mo","BBY","4742",
+"Gatev","Evan","Evan","22711","10076","E100","BBY","3","Internal","BUS","418","1184","Summer 2018","FIN","00:00 AM","00:00 AM","WMC 3313",,"BBY","4743",
+"Fung","Kwai Man Teresa","Teresa","48701","10088","D100","BBY","3","Internal","BUS","330","1184","Summer 2018","ACCT","10:30 AM","01:30 PM","WMC 3353","Fr","BBY","4755",
+"Azaron","Amir","Amir","44267","10116","D100","BBY","4","Internal","BUEC","232","1184","Summer 2018","TOM","05:00 PM","06:30 PM","WMC 4357","Tu","BBY","4597",
+"Tung","Eric","Eric","25648","10122","E200","BBY","4","Internal","BUS","360","1184","Summer 2018","BC","01:00 PM","02:20 PM","WMC 4357","We","BBY","4694",
+"Tung","Eric","Eric","25648","10122","E200","BBY","4","Internal","BUS","360","1184","Summer 2018","BC","08:30 PM","09:00 PM","WMC 4357","We","BBY","4695",
+"Paschen","Jeannette","Jeannette","49474","10124","D200","BBY","3","Internal","BUS","200","1184","Summer 2018","MIN","11:30 AM","12:30 PM","WMC4360","Tu","BBY","4604",
+"Brydon","Michael","Michael","23157","10155","G200","SUR","4","Internal","BUS","553","1184","Summer 2018","TOM",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Krishnamoorthy","Srinivas","Srini","49522","10170","G100","WEB","4","Internal","BUS","553","1184","Summer 2018","TOM",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Soh","Pek-Hooi","Pek","18864","10177","D600","BBY","3","Internal","BUS","478","1184","Summer 2018","POL","12:30 PM","03:30 PM","WMC 4350","Mo","BBY","4605","Please inform me in class if you would drop in."
+"Soh","Pek-Hooi","Pek","18864","10177","D600","BBY","3","Internal","BUS","478","1184","Summer 2018","POL","02:00 PM","04:00 PM","SGL 3905","Tu","SEGAL","4606","By Appointment"
+"Soh","Pek-Hooi","Pek","18864","10177","D600","BBY","3","Internal","BUS","478","1184","Summer 2018","POL","02:30 PM","04:00 PM","SGL 3905","We","SEGAL","4607","By Appointment"
+"Lazarova","Mila","Mila","18861","10179","G200","SEGAL","2","Internal","BUS","641","1184","Summer 2018","IB",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Hasan","M. Emrul","Emrul","25949","10181","D200","BBY","4","Internal","BUS","413","1184","Summer 2018","FIN","01:30 PM","02:20 PM","WMC 2674 (ECON DEPT)","We","BBY","4773","By appointment only"
+"Hasan","M. Emrul","Emrul","25949","10181","D200","BBY","4","Internal","BUS","413","1184","Summer 2018","FIN","12:30 PM","01:20 PM","WMC 2674 (ECON DEPT)","Fr","BBY","4774","By appointment only"
+"Masri","Kamal","Kamal","1938","10194","G100","SEGAL","2","Internal","BUS","723","1184","Summer 2018","MOS",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Ford","Simon","Simon","48741","10197","D100","SUR","3","Internal","BUS","450","1184","Summer 2018","IE","11:00 AM","12:00 PM","5028","We","SUR","4649",
+"Ford","Simon","Simon","48741","10197","D100","SUR","3","Internal","BUS","450","1184","Summer 2018","IE","11:00 AM","12:00 PM","5028","Th","SUR","4650",
+"Barlow","Leanne","Leanne","2428","10231","D700","BBY","4","Internal","BUS","360","1184","Summer 2018","BC","09:30 AM","10:30 AM","WMC 3331","Tu","BBY","4663",
+"Barlow","Leanne","Leanne","2428","10231","D700","BBY","4","Internal","BUS","360","1184","Summer 2018","BC","09:30 AM","10:30 AM","WMC 3331","Th","BBY","4664",
+"Barlow","Leanne","Leanne","2428","10231","D700","BBY","4","Internal","BUS","360","1184","Summer 2018","BC","01:00 PM","02:00 PM","WMC 3331","We","BBY","4665",
+"Suwanyangyuan","Nattavut","Simon","29051","10238","D200","BBY","3","Internal","BUS","321","1184","Summer 2018","ACCT","10:00 AM","11:00 AM","WMC 3360","Th","BBY","4744",
+"Suwanyangyuan","Nattavut","Simon","29051","10238","D200","BBY","3","Internal","BUS","321","1184","Summer 2018","ACCT","02:30 PM","03:30 PM","WMC 3360","Th","BBY","4745",
+"Bubra","Susan","Susan","23225","10239","E100","BBY","3","Internal","BUS","322","1184","Summer 2018","ACCT","12:00 PM","02:00 PM","NULL","Mo","BBY","4762","after class BLU10011"
+"Bubra","Susan","Susan","23225","10239","E100","BBY","3","Internal","BUS","322","1184","Summer 2018","ACCT","03:30 PM","05:15 PM","NULL","We","BBY","4763",
+"Bubra","Susan","Susan","23225","10239","E100","BBY","3","Internal","BUS","322","1184","Summer 2018","ACCT","00:00 AM","00:00 AM","NULL",,"BBY","4764",
+"Gupta","Sudheer","Sudheer","22167","10251","D200","BBY","3","Internal","BUS","474","1184","Summer 2018","TOM","12:45 PM","02:15 PM","WMC 4344","Mo","BBY","4772",
+"Oh","Chang Hoon","Chang Hoon","24798","10257","D200","BBY","3","Internal","BUS","346","1184","Summer 2018","IB","12:30 PM","02:00 PM","WMC2202","We","BBY","4723",
+"Selman","Mark","Mark","23349","10273","G500",,"6","Internal","BUS","696","1184","Summer 2018","POL",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Church","Michael","Mike","24035","10297","D200","BBY","3","Internal","BUS","466","1184","Summer 2018","MIS","11:30 AM","12:20 PM","WMC 3327","Th","BBY","4793",
+"Church","Michael","Mike","24035","10297","D200","BBY","3","Internal","BUS","466","1184","Summer 2018","MIS","12:30 PM","01:20 PM","WMC 3327","Fr","BBY","4794",
+"Papania","Lisa","Lisa","3663","10436","D200","SUR","3","Internal","BUS","495","1184","Summer 2018","IE","12:00 PM","01:00 PM","SUR 5054","Mo","SUR","4610",
+"Papania","Lisa","Lisa","3663","10436","D200","SUR","3","Internal","BUS","495","1184","Summer 2018","IE","12:00 PM","01:00 PM","SUR 5054","We","SUR","4611",
+"Marie-Rhodes","Natiea","Natiea","35386","10447","G100","WEB","2","Internal","BUS","561","1184","Summer 2018","N/A",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Jones","Nathan","Nathan","28991","10498","G200","OFFSITE","2","Internal","BUS","784","1184","Summer 2018","POL",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Zaichkowsky","Judith","Judy","23197","10508","D100","SEGAL","3","Internal","BUS","493","1184","Summer 2018","MKTG",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Smith","Shawn","Shawn","12758","10515","D100","HC","3","Internal","BUS","490","1184","Summer 2018","NO CON",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Edwards","Carol","Carol","43107","10517","G100","WEB","4","Internal","BUS","555","1184","Summer 2018","FIN",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Jiwani","Zahra","Zahra Ladha","2590","10541","D100","BBY","4","Internal","BUS","448","1184","Summer 2018","MKTG","08:30 AM","09:30 AM","WMC 4319","We","BBY","4601",
+"Jiwani","Zahra","Zahra Ladha","2590","10541","D100","BBY","4","Internal","BUS","448","1184","Summer 2018","MKTG","00:00 AM","00:00 AM","WMC 4319",,"BBY","4602",
+"Jiwani","Zahra","Zahra Ladha","2590","10541","D100","BBY","4","Internal","BUS","448","1184","Summer 2018","MKTG","00:00 AM","00:00 AM","WMC 4319",,"BBY","4603",
+"Hasan","M. Emrul","Emrul","25949","10542","D100","BBY","4","Internal","BUS","315","1184","Summer 2018","FIN","01:30 PM","02:20 PM","WMC 2674 (ECON DEPT)","We","BBY","4777","By appointment only"
+"Hasan","M. Emrul","Emrul","25949","10542","D100","BBY","4","Internal","BUS","315","1184","Summer 2018","FIN","12:30 PM","01:20 PM","WMC 2674 (ECON DEPT)","Fr","BBY","4778","By appointment only"
+"Payne","Peter","Peter","18804","10650","G200","SEGAL","2","Internal","BUS","797","1184","Summer 2018","IE",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Cramer","Arlene","Joy","34278","10664","G400","SEGAL","4","Internal","BUS","696","1184","Summer 2018","N/A",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Gupta","Sudheer","Sudheer","22167","10666","G100",,"4","Internal","BUS","661","1184","Summer 2018","TOM",NULL,NULL,NULL,NULL,NULL,NULL,NULL

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D562004F-9CDB-AAA5-42F8-A9B2E07C2CB3}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LoadingScreen.cs">
+    <Files>
+      <File FileName="Assets/Scripts/JSONReader.cs" Line="15" Column="2" />
+      <File FileName="Assets/Scripts/WebRequest.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/LoadingScreen.cs" Line="24" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

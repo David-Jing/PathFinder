@@ -1,0 +1,123 @@
+"Course","courses_offered_id","stakeholder_id","TaName","OfficeHour"
+"BUS 251-3 D200","4970","30583","Bogucki, Thomas","03:30 PM - 05:30 PM,   Th,   NULL   (SUR)"
+"BUS 251-3 D100","4971","42903","Zhang, William","11:00 AM - 01:00 PM,   Fr,   WMC 3381   (BBY)"
+"BUS 251-3 D100","4971","37872","Kwok, Danielle","12:00 PM - 02:00 PM,   Th,   WMC 3381   (BBY)"
+"BUS 251-3 D100","4971","41922","Tariq, Amber","12:30 PM - 02:00 PM,   We,   WMC 3381   (BBY)"
+"BUS 254-3 D100","5042","33429","Battisti, Brianne","12:45 PM - 02:15 PM,   Mo,   WMC 3372   (BBY)"
+"BUS 254-3 D100","5042","43131","He, Kelly",NULL
+"BUS 254-3 D100","5042","52781","Zhang, TQ","03:30 PM - 04:15 PM,   Tu,   WMC 3372   (BBY)"
+"BUS 254-3 D100","5042","52781","Zhang, TQ","00:00 AM - 00:00 AM,   ,   NULL   (BBY)"
+"BUS 312-4 D200","5351","51080","Liu, Carol","04:00 PM - 07:00 PM,   Mo,   NULL   (SUR)"
+"BUS 312-4 D200","5351","44332","Walia, Harshdeep Singh",NULL
+"BUS 312-4 D200","5351","34353","Zhu, Troy","09:00 AM - 12:00 PM,   Fr,   NULL   (SUR)"
+"BUS 312-4 D100","5387","47143","Xu, Ke","01:30 PM - 05:30 PM,   We,   MWC 3340   (BBY)"
+"BUS 312-4 D100","5387","30232","Han, Kevin","10:30 AM - 12:30 PM,   Tu,   NULL   (BBY)"
+"BUS 312-4 D100","5387","30232","Han, Kevin","10:30 AM - 12:30 PM,   Th,   NULL   (BBY)"
+"BUS 312-4 D100","5387","26322","Yeh, Rudy","12:30 PM - 04:30 PM,   Mo,   3340   (BBY)"
+"BUS 312-4 D100","5387","30581","Wang, Eric","01:30 PM - 05:30 PM,   Tu,   WMC 3340   (BBY)"
+"BUS 312-4 D100","5387","30581","Wang, Eric","00:00 AM - 00:00 AM,   ,   NULL   (BBY)"
+"BUS 272-3 E100","5801","47446","Betman, Cassie","01:00 PM - 02:00 PM,   Th,   WMC 3342   (BBY)"
+"BUS 272-3 E100","5801","50196","Hicks, Andrew","04:00 PM - 05:00 PM,   We,   WMC 3342   (BBY)"
+"BUS 272-3 D100","5823","47997","Veltri, Luca","11:15 AM - 12:15 PM,   Mo,   WMC 2218.2   (BBY)"
+"BUS 272-3 D100","5823","44206","Khosa, Harmeen","06:30 PM - 07:30 PM,   Mo,   WMC 2218.2   (BBY)"
+"BUS 272-3 D100","5823","48566","Ng, Perry","02:00 PM - 03:00 PM,   We,   WMC 2218.2   (BBY)"
+"BUS 374-3 D200","5877","46806","Ghakkar, Ally",NULL
+"BUS 381-3 E100","6056","44424","Bailey, Jaryn","03:00 PM - 04:00 PM,   Th,   WMC 2218.3   (BBY)"
+"BUS 381-3 E100","6056","29433","Ephraim, Hermon",NULL
+"BUS 346-3 D100","6268","33674","Hsieh, Daniel","04:30 PM - 05:30 PM,   Tu,   SUR5009   (BBY)"
+"BUS 237-3 E100","6394","33732","Wong, Eric","08:30 PM - 09:30 PM,   Th,   WMC 2351.4   (BBY)"
+"BUS 237-3 E100","6394","49027","Chernoff, Trevor",NULL
+"BUS 237-3 D100","6431","62071","Rai, Ashish","05:30 PM - 07:00 PM,   Th,   WMC 2351.4   (BBY)"
+"BUS 237-3 D100","6431","34129","Cheng, Calvin","03:30 PM - 04:30 PM,   Th,   WMC 2351.4   (BBY)"
+"BUS 237-3 D100","6431","30416","Azari-razm, Nazanin","04:30 PM - 05:30 PM,   Th,   WMC 2351.4   (BBY)"
+"BUS 361-3 D100","6453","48646","Hernandez, Diego","12:00 PM - 02:00 PM,   Tu,   WMC 2218.1   (BBY)"
+"BUS 362-4 D100","6509","42617","Nguyen, Taylor","06:30 PM - 07:30 PM,   Mo,   WMC2301   (BBY)"
+"BUS 362-4 D100","6509","42617","Nguyen, Taylor","11:00 AM - 02:20 PM,   Mo,   WMC 3370   (BBY)"
+"BUS 362-4 D100","6509","26304","Xu, Sarah","04:30 PM - 06:30 PM,   Mo,   WMC 3370   (BBY)"
+"BUS 362-4 D100","6509","26304","Xu, Sarah","01:00 PM - 04:30 PM,   Tu,   WMC 3370   (BBY)"
+"BUEC 232-4 E100","6651","52642","Cicek, Selcuk",NULL
+"BUEC 232-4 E100","6651","62102","Melnikov, Leo",NULL
+"BUEC 232-4 E100","6651","30364","Imeri, Mario",NULL
+"BUEC 232-4 E100","6651","45038","Bui, Minh",NULL
+"BUS 336-4 D100","6675","44202","Zhang, Cathy",NULL
+"BUS 336-4 D100","6675","30181","Pham, Viet",NULL
+"BUS 336-4 D100","6675","38475","Huynh, Diane",NULL
+"BUS 336-4 D200","6691","47258","Akbari, Mahsa",NULL
+"BUS 336-4 D200","6691","42088","Lai, Rosalie",NULL
+"BUS 207-3 D100","6871","47980","Lozanoski, Filip","11:00 AM - 02:00 PM,   Th,   NULL   (BBY)"
+"BUS 207-3 E100","6914","42234","Sekhon, Kris",NULL
+"BUS 303-3 E100","6945","44696","Chan, Jessica",NULL
+"BUS 303-3 D100","6966","36479","Ho, Shuna",NULL
+"BUS 303-3 D200","6978","52642","Cicek, Selcuk","12:30 PM - 01:30 PM,   We,   SUR 5005   (SUR)"
+"BUS 393-3 E100","7034","29704","Shen, Jen-Li","11:30 AM - 12:30 PM,   Mo,   WMC 2351.2   (BBY)"
+"BUS 393-3 E100","7034","43774","Venn, Kimberley","03:30 PM - 04:30 PM,   Tu,   WMC2351.2   (BBY)"
+"BUS 393-3 D100","7055","25992","Jutras, Jordan","03:30 PM - 04:30 PM,   Tu,   WMC 2351.2   (BBY)"
+"BUS 393-3 D100","7055","25992","Jutras, Jordan","01:30 PM - 02:30 PM,   Th,   WMC 2351.2   (BBY)"
+"BUS 393-3 D100","7055","33878","Langhans, Noah","12:30 PM - 01:30 PM,   Tu,   WMC 2351.2   (BBY)"
+"BUS 393-3 D100","7055","33878","Langhans, Noah","12:30 PM - 01:30 PM,   Th,   WMC 2351.2   (BBY)"
+"BUS 393-3 D200","7103","33674","Hsieh, Daniel","04:30 PM - 05:30 PM,   Tu,   SUR5009   (BBY)"
+"BUS 393-3 D200","7103","43117","Stawiarski, Amanda","11:30 AM - 12:30 PM,   Tu,   5009   (SUR)"
+"BUS 360-4 D100","7423","37326","Sekaly, Maria","12:00 PM - 02:00 PM,   Tu,   WMC 2351.1    (BBY)"
+"BUS 360-4 D200","7424","33962","Banns, Taylor",NULL
+"BUS 360-4 D300","7425","33903","Yang, Edwin",NULL
+"BUS 360-4 E100","7428","33110","Wu, Chancey","09:30 PM - 11:20 PM,   Tu,   WMC 2351.1   (BBY)"
+"BUS 360-4 E100","7428","33110","Wu, Chancey","09:30 PM - 02:20 AM,   We,   WMC 2351.1   (BBY)"
+"BUS 360-4 D600","7429","26195","Sekhon, Katrina",NULL
+"BUS 343-3 D200","7631","43809","Meng, Winnie","03:30 PM - 04:30 PM,   We,   SUR  5009   (SUR)"
+"BUS 343-3 D200","7631","42719","Bhangu, Manvinder",NULL
+"BUS 343-3 D100","7638","42719","Bhangu, Manvinder",NULL
+"BUS 343-3 D100","7638","43651","Hua, Johnny","03:30 PM - 04:30 PM,   Fr,   WMC3381   (BBY)"
+"BUS 343-3 D100","7638","43384","Jo, Sarah","03:00 PM - 04:30 PM,   Tu,   WMC 3381   (BBY)"
+"BUS 347-3 D100","7675","44495","Yu, Yuyu",NULL
+"BUS 254-3 E100","9282","30609","Gill, Jatinder","03:20 PM - 04:20 PM,   Tu,   WMC 3372   (BBY)"
+"BUS 254-3 E100","9282","30451","Bains, Baljinder","03:20 PM - 04:20 AM,   Tu,   WMC 3372   (BBY)"
+"BUS 718-3 G100","9607","29038","Ipek, Ebru",NULL
+"BUS 714-3 G100","9614","17987","Cheng, Mandy",NULL
+"BUS 716-3 G100","9622","15621","Graves, Sara",NULL
+"BUS 217-3 D100","9771","62382","Amburgey, Brent","10:00 AM - 12:00 PM,   Tu,   WMC 1390   (BBY)"
+"BUS 217-3 D100","9771","48018","Sharma, Shradna","01:30 PM - 03:30 PM,   Fr,   WMC 2218.3   (BBY)"
+"BUS 217-3 D200","9773","47211","Maljevac, Anthony","09:30 AM - 10:30 PM,   Tu,   WMC 2218.3   (BBY)"
+"BUS 217-3 D200","9773","47211","Maljevac, Anthony","02:30 PM - 03:20 PM,   We,   WMC 2218.3   (BBY)"
+"BUS 217-3 D200","9773","62710","Yazdizad, Arsham",NULL
+"BUS 217-3 D300","9776","30166","Yoruk, Eli Kaan","01:00 PM - 03:00 PM,   Mo,   WMC 2351.1   (BBY)"
+"BUS 217-3 D300","9776","30166","Yoruk, Eli Kaan","00:00 AM - 00:00 AM,   ,   NULL   (BBY)"
+"BUS 217-3 D300","9776","63838","Cao, Liang","10:00 AM - 12:00 PM,   Tu,   WMC 2351.1   (BBY)"
+"BUS 393-3 D300","9834","29704","Shen, Jen-Li","11:30 AM - 12:30 PM,   Mo,   WMC 2351.2   (BBY)"
+"BUS 393-3 D300","9834","43703","Fang, Susanna","12:30 PM - 02:00 PM,   Fr,   NULL   (BBY)"
+"BUS 217-3 D400","9888","45603","Durrani, Azima","12:00 PM - 02:00 PM,   Tu,   NULL   (BBY)"
+"BUS 217-3 D400","9888","62382","Amburgey, Brent","02:00 PM - 04:00 PM,   Tu,   SUR 5009   (SUR)"
+"BUS 511-2 G100","9893","43197","Wu, Stephen",NULL
+"BUS 557-4 G100","9902","48902","Endaya, Rhoena Gean",NULL
+"BUS 570-4 G100","9904","48762","Hennessy, Frank",NULL
+"BUS 570-4 G100","9904","48646","Hernandez, Diego",NULL
+"BUS 735-4 G100","9931","15621","Graves, Sara",NULL
+"BUS 233-3 D100","9940","47193","Ahmed, Reza","05:30 PM - 06:20 PM,   Mo,   WMC 2351.5   (BBY)"
+"BUS 200-3 D100","9941","48646","Hernandez, Diego","12:00 PM - 02:00 PM,   Tu,   WMC 2218.1   (BBY)"
+"BUS 340-4 D100","9943","44696","Chan, Jessica",NULL
+"BUS 341-4 D100","9944","48646","Hernandez, Diego","12:00 PM - 02:00 PM,   Tu,   WMC 2218.1   (BBY)"
+"BUS 381-3 D100","9965","45603","Durrani, Azima",NULL
+"BUS 238-3 D100","9967","47700","Alaeiilkhchi, Pouya",NULL
+"BUS 338-3 D100","9968","30487","Peterson, Braeden","11:00 AM - 00:00 AM,   Th,   NULL   (SUR)"
+"BUS 338-3 D100","9968","30487","Peterson, Braeden","00:00 AM - 00:00 AM,   ,   NULL   (BBY)"
+"BUS 202-3 D100","9983","45726","Sanghera, Karan","03:00 PM - 04:00 PM,   Tu,   NULL   (BBY)"
+"BUS 202-3 D100","9983","45674","Purhar, Simrin","10:00 AM - 11:00 AM,   Mo,   NULL   (BBY)"
+"BUS 202-3 D100","9983","45674","Purhar, Simrin","00:00 AM - 00:00 AM,   ,   NULL   (BBY)"
+"BUS 202-3 D200","9984","47446","Betman, Cassie","03:00 PM - 04:00 PM,   We,   WMC 3342   (BBY)"
+"BUS 202-3 D200","9984","52645","Eng, Justin","01:30 PM - 02:30 PM,   Fr,   WMC 3342   (BBY)"
+"BUS 221-3 D200","10028","52811","Huynh, Phuong","02:30 PM - 03:30 AM,   Th,   WMC 2351.5   (BBY)"
+"BUS 221-3 D200","10028","45707","Hoy, Brendan","00:00 AM - 00:00 AM,   BA,      ()"
+"BUS 221-3 D100","10032","45707","Hoy, Brendan","00:00 AM - 00:00 AM,   BA,      ()"
+"BUS 221-3 D100","10032","52811","Huynh, Phuong","02:30 PM - 03:30 AM,   Th,   WMC 2351.5    (BBY)"
+"BUS 303-3 D300","10039","44696","Chan, Jessica",NULL
+"BUS 607-4 G200","10055","36479","Ho, Shuna",NULL
+"BUEC 232-4 D100","10116","47258","Akbari, Mahsa",NULL
+"BUEC 232-4 D100","10116","52642","Cicek, Selcuk",NULL
+"BUEC 232-4 D100","10116","30685","Bahramirad, Duman",NULL
+"BUEC 232-4 D100","10116","48412","Chan, Sam",NULL
+"BUS 360-4 E200","10122","30491","Kauldher, Anjali","11:00 AM - 01:00 PM,   Mo,   WMC 3307   (BBY)"
+"BUS 360-4 E200","10122","30491","Kauldher, Anjali","11:00 AM - 01:00 PM,   Fr,   WMC 3307   (BBY)"
+"BUS 200-3 D200","10124","63193","rawat, vasundhara","03:30 PM - 04:30 PM,   We,   WMC 2218.1   (BBY)"
+"BUS 360-4 D700","10231","25992","Jutras, Jordan","02:30 PM - 04:30 PM,   Th,   WMC 2351.2   (BBY)"
+"BUS 315-4 D100","10542","43246","Lin, Gigi","02:00 PM - 04:00 PM,   Tu,   WMC 2351.5   (BBY)"
+"BUS 315-4 D100","10542","43246","Lin, Gigi","00:00 AM - 00:00 AM,   ,   NULL   (BBY)"
+"BUS 315-4 D100","10542","52309","Zlotnik, Irina","11:00 AM - 01:00 PM,   Mo,   NULL   (BBY)"
